@@ -1,7 +1,15 @@
 ## Hi there 👋
 
+Hello! I am **Rachel**. I study at the Polytechnic University of the Philippines, taking BS Computer Science. 💻
+
+<hr>
+
+***CURRENTLY UNDER CONSTRUCTION***
+
+
 <!--
 **rachelannec/rachelannec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
