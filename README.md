@@ -3,10 +3,23 @@
 Hello! I am **Rachel**. I study at the Polytechnic University of the Philippines, taking BS Computer Science. 💻
 
 <hr>
-
-***CURRENTLY UNDER CONSTRUCTION***
-
+<!-- https://github.com/anuraghazra/github-readme-stats -->
 [![rachelannec's GitHub stats](https://github-readme-stats.vercel.app/api?username=rachelannec&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?rachelannec=anuraghazra&layout=compact)
+
+
+<strong>CURRENTLY UNDER CONSTRUCTION</strong>
+<!-- https://github.com/natemoo-re/natemoo-re/blob/master/spotify-setup-guide.md -->
+
+
+
+
+
+
+
+
+
+
 
 
 <!--
