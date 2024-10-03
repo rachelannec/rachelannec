@@ -6,7 +6,7 @@ Hello! I am **Rachel**. I study at the Polytechnic University of the Philippines
 
 ***CURRENTLY UNDER CONSTRUCTION***
 
-[![rachelannec's GitHub stats](https://github-readme-stats.vercel.app/api?username=rachelannec)](https://github.com/anuraghazra/github-readme-stats)
+[![rachelannec's GitHub stats](https://github-readme-stats.vercel.app/api?username=rachelannec&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
