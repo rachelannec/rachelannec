@@ -2,6 +2,8 @@
 
 Hello! I am **Rachel**. I study at the Polytechnic University of the Philippines, taking BS Computer Science. 💻
 
+I am learning Web Development and Data Science.
+
 <hr>
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 
@@ -9,7 +11,7 @@ Hello! I am **Rachel**. I study at the Polytechnic University of the Philippines
 |----------|-----------|
 
 
-<strong>CURRENTLY UNDER CONSTRUCTION</strong>
+<!-- <strong>CURRENTLY UNDER CONSTRUCTION</strong> -->
 <!-- https://github.com/natemoo-re/natemoo-re/blob/master/spotify-setup-guide.md -->
 
 
