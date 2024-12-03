@@ -1,6 +1,8 @@
 ## Hi there 👋
 
 Hello! I am **Rachel**. I study at the Polytechnic University of the Philippines, taking BS Computer Science. 💻 I am currently learning Web Development and Data Science. 😎
+<br><br>
+***Nothing too technical here*** (yet?)!!
 
 <hr>
 <!-- https://github.com/anuraghazra/github-readme-stats -->
