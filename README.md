@@ -1,5 +1,3 @@
-## Hi there 👋
-
 Hello! I am **Rachel**.
 
 - 🐱‍🏍 I study at the Polytechnic University of the Philippines, taking BS Computer Science. 
