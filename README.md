@@ -9,16 +9,14 @@ Hello! I am **Rachel**.
 - 📫 How to reach me:
   - [LinkedIn](https://www.linkedin.com/in/rachel-anne-cilon/) <br>
   - [Email](mailto:rachelannecilon@gmail.com) 
-<br><br>
 
 
 ***Nothing too technical here*** (yet?)!!
 
 <!-- https://github.com/anuraghazra/github-readme-stats -->
-<!--
-| ![rachelannec's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rachelannec&show_icons=true&theme=transparent) | ![Top Langs](https://github-readme-stats.vercel.app//api/top-langs/?username=rachelannec&layout=compact&theme=transparent) |
+
+| ![rachelannec's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rachelannec&show_icons=true&theme=transparent&card_width=200) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rachelannec&layout=compact&theme=transparent&card_width=200) |
 |----------|-----------|
--->
 
 <!-- <strong>CURRENTLY UNDER CONSTRUCTION</strong> -->
 <!-- https://github.com/natemoo-re/natemoo-re/blob/master/spotify-setup-guide.md -->
