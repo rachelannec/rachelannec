@@ -1,9 +1,8 @@
 Hello! I am **Rachel**.
-<br>
-- 🐱‍🏍 I study at the Polytechnic University of the Philippines, taking BS Computer Science.
+- 🐱‍🏍 web dev, data science (?)
 - 🦆 Side quest!
 - 📫 How to reach me:
-  - [LinkedIn](https://www.linkedin.com/in/rachel-anne-cilon/) <br>
+  - [LinkedIn](https://www.linkedin.com/in/rachel-anne-cilon/) 
   - [Email](mailto:rachelannecilon@gmail.com) 
 
 
