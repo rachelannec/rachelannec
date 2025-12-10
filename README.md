@@ -1,15 +1,12 @@
 Hello! I am **Rachel**.
-- 🐱‍🏍 web dev, data science (?)
+- 🐱‍🏍 web dev
 - 🦆 Side quest!
 - 📫 How to reach me:
   - [LinkedIn](https://www.linkedin.com/in/rachel-anne-cilon/) 
   - [Email](mailto:rachelannecilon@gmail.com) 
 
-
-***Nothing too technical here*** (yet?)!!
-
 <!-- https://github.com/anuraghazra/github-readme-stats -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rachelannec&layout=compact&theme=transparent)
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rachelannec&layout=compact&theme=transparent) -->
 <!-- | ![rachelannec's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rachelannec&show_icons=true&theme=transparent&card_width=200) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rachelannec&layout=compact&theme=transparent&card_width=200) |
 |----------|-----------| -->
 
