@@ -1,17 +1,14 @@
-<div align="center">
+#### 🐱‍🏍 About Me
+<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="150" align="right"/>
+A computer science student. </br>
 
-  # Hello! I am **Rachel** 👋
-  
-  **Web Developer | Student**
-  
-  > 🦆 **Current Main Quest:** Exploring new tech horizons & leveling up my dev skills! </br>
-  > 🦍 **Side Quest:** Scroll on Instagram reels.
-  <div align="center">
-    <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="200" />
-  </div>
+> 🦆 **Main Quest:** Explore. </br>
+> 🦍 **Side Quest:** Scroll on Instagram reels.
 
-  ---
 
+- 🌱 I’m currently learning **React**
+- 💬 Ask me about **Web Development** (Please don't) 
+- 📫 How to reach me: </br>
   <a href="https://www.linkedin.com/in/rachel-anne-cilon/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
@@ -24,21 +21,13 @@
   <a href="https://www.instagram.com/rachelcilon">
     <img src="https://img.shields.io/badge/Instagram-F56040?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
+    
 
-  <br />
-
-</div>
-
-### 🐱‍🏍 About Me
-A computer science student. 
-
-- 🌱 I’m currently learning **React**
-- 💬 Ask me about **Web Development** (Please don't)
-- 📫 How to reach me: **[rachelannecilon@gmail.com](mailto:rachelannecilon@gmail.com)**
+  
 
 ---
 
-### 🛠️ Languages & Tools
+#### 🛠️ Languages & Tools
 &nbsp;
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> 
 <img src="https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E" />
@@ -52,8 +41,6 @@ A computer science student.
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
 
 ---
-
-### 📊 GitHub Stats
 
 <div align="center">
   
