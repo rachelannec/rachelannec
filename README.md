@@ -1,14 +1,14 @@
-<!-- <div align="center">
+<div align="center">
 
   # Hello! I am **Rachel** 👋
-  <div align="center">
-    <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="200" />
-  </div>
   
   **Web Developer | Student**
   
   > 🦆 **Current Main Quest:** Exploring new tech horizons & leveling up my dev skills! </br>
-  > 🦍 **Side Quest:** Scroll on Instagram reels. 
+  > 🦍 **Side Quest:** Scroll on Instagram reels.
+  <div align="center">
+    <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="200" />
+  </div>
 
   ---
 
@@ -24,10 +24,10 @@
 </div>
 
 ### 🐱‍🏍 About Me
-I'm a passionate Web Developer focused on building functional websites. 
+A computer science student. 
 
-<!-- 🌱 I’m currently learning **[Insert Skill here, e.g., React, Node.js]**
-- 💬 Ask me about **Web Development** 
+🌱 I’m currently learning **React**
+- 💬 Ask me about **Web Development** (Please don't)
 - 📫 How to reach me: **[rachelannecilon@gmail.com](mailto:rachelannecilon@gmail.com)**
 
 ---
@@ -46,4 +46,4 @@ I'm a passionate Web Developer focused on building functional websites.
 | :---: | :---: |
 | <img src="https://github-readme-stats.vercel.app/api?username=rachelannec&show_icons=true&theme=transparent&card_width=250&hide_border=true" alt="Rachel's Stats" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rachelannec&layout=compact&theme=transparent&card_width=250&hide_border=true" alt="Top Languages" /> |
 
-</div> -->
+</div>
