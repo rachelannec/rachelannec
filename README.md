@@ -18,10 +18,10 @@
   <a href="mailto:rachelannecilon@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href=https://www.facebook.com/rachelannecilonlisay">
+  <a href="https://www.facebook.com/rachelannecilonlisay">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
-  <a href=https://www.instagram.com/rachelcilon">
+  <a href="https://www.instagram.com/rachelcilon">
     <img src="https://img.shields.io/badge/Instagram-F56040?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 
