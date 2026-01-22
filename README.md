@@ -1,41 +1,49 @@
-Hello! I am **Rachel**.
-- 🐱‍🏍 web dev
-- 🦆 Side quest!
-- 📫 How to reach me:
-  - [LinkedIn](https://www.linkedin.com/in/rachel-anne-cilon/) 
-  - [Email](mailto:rachelannecilon@gmail.com) 
+<!-- <div align="center">
 
-<!-- https://github.com/anuraghazra/github-readme-stats -->
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rachelannec&layout=compact&theme=transparent) -->
-<!-- | ![rachelannec's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rachelannec&show_icons=true&theme=transparent&card_width=200) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rachelannec&layout=compact&theme=transparent&card_width=200) |
-|----------|-----------| -->
+  # Hello! I am **Rachel** 👋
+  <div align="center">
+    <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="200" />
+  </div>
+  
+  **Web Developer | Student**
+  
+  > 🦆 **Current Main Quest:** Exploring new tech horizons & leveling up my dev skills! </br>
+  > 🦍 **Side Quest:** Scroll on Instagram reels. 
 
-<!-- <strong>CURRENTLY UNDER CONSTRUCTION</strong> -->
-<!-- https://github.com/natemoo-re/natemoo-re/blob/master/spotify-setup-guide.md -->
+  ---
 
+  <a href="https://www.linkedin.com/in/rachel-anne-cilon/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:rachelannecilon@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 
+  <br />
 
+</div>
 
+### 🐱‍🏍 About Me
+I'm a passionate Web Developer focused on building functional websites. 
 
+<!-- 🌱 I’m currently learning **[Insert Skill here, e.g., React, Node.js]**
+- 💬 Ask me about **Web Development** 
+- 📫 How to reach me: **[rachelannecilon@gmail.com](mailto:rachelannecilon@gmail.com)**
 
+---
 
+### 🛠️ Languages & Tools
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
+---
 
+### 📊 GitHub Stats
 
+<div align="center">
+  
+| **My GitHub Stats** | **Top Languages** |
+| :---: | :---: |
+| <img src="https://github-readme-stats.vercel.app/api?username=rachelannec&show_icons=true&theme=transparent&card_width=250&hide_border=true" alt="Rachel's Stats" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rachelannec&layout=compact&theme=transparent&card_width=250&hide_border=true" alt="Top Languages" /> |
 
-
-
-<!--
-**rachelannec/rachelannec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div> -->
