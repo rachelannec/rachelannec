@@ -1,3 +1,5 @@
+
+<!-- 
 #### 🐱‍🏍 About Me
 <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="150" align="right"/>
 A computer science student. </br>
@@ -21,10 +23,6 @@ A computer science student. </br>
   <a href="https://www.instagram.com/rachelcilon">
     <img src="https://img.shields.io/badge/Instagram-F56040?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-    
-
-  
-
 ---
 
 #### 🛠️ Languages & Tools
@@ -41,7 +39,24 @@ A computer science student. </br>
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
 
 ---
-
+-->
+Salut 👋
+- 🍜 A computer science student
+- 💬 Ask me about **Web Development** (Please don't, jk)
+- 📫 How to reach me: </br>
+  <a href="https://www.linkedin.com/in/rachel-anne-cilon/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:rachelannecilon@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.facebook.com/rachelannecilonlisay" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/rachelcilon" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-F56040?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+ ---
 <div align="center">
   
 | **My GitHub Stats** | **Top Languages** |
