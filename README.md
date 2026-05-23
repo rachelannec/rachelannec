@@ -41,7 +41,7 @@ A computer science student. </br>
 ---
 -->
 Salut 👋
-<img src="https://media1.tenor.com/m/Epn8mtby9RcAAAAd/frieren-crying.gif" width="180" align="right"/>
+<img src="https://media1.tenor.com/m/Epn8mtby9RcAAAAd/frieren-crying.gif" width="160" align="right"/>
 - 🍜 A computer science student
 - 💬 Ask me about **Web Development** (Please don't, jk)
 - 📫 How to reach me: </br>
