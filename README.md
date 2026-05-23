@@ -41,6 +41,7 @@ A computer science student. </br>
 ---
 -->
 Salut 👋
+<img src="https://media1.tenor.com/m/Epn8mtby9RcAAAAd/frieren-crying.gif" width="150" align="right"/>
 - 🍜 A computer science student
 - 💬 Ask me about **Web Development** (Please don't, jk)
 - 📫 How to reach me: </br>
@@ -61,6 +62,6 @@ Salut 👋
   
 | **My GitHub Stats** | **Top Languages** |
 | :---: | :---: |
-| <img src="https://github-readme-stats.vercel.app/api?username=rachelannec&show_icons=true&theme=transparent&card_width=250&hide_border=true" alt="Rachel's Stats" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rachelannec&layout=compact&theme=transparent&card_width=250&hide_border=true" alt="Top Languages" /> |
+| <img src="https://github-readme-stats-psi-pearl-42.vercel.app/api?username=rachelannec&show_icons=true&theme=transparent&card_width=250&hide_border=true" alt="Rachel's Stats" /> | <img src="https://github-readme-stats-psi-pearl-42.vercel.app/api/top-langs/?username=rachelannec&layout=compact&theme=transparent&card_width=250&hide_border=true" alt="Top Languages" /> |
 
 </div>
