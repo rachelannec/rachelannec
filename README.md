@@ -43,7 +43,6 @@ A computer science student. </br>
 Salut 👋
 <img src="https://media1.tenor.com/m/Epn8mtby9RcAAAAd/frieren-crying.gif" width="160" align="right"/>
 - 🍜 A computer science student
-- 💬 Ask me about **Web Development** (Please don't, jk)
 - 📫 How to reach me: </br>
   <a href="https://www.linkedin.com/in/rachel-anne-cilon/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -60,8 +59,10 @@ Salut 👋
  ---
 <div align="center">
   
-| **My GitHub Stats** | **Top Languages** |
-| :---: | :---: |
-| <img src="https://github-readme-stats-psi-pearl-42.vercel.app/api?username=rachelannec&show_icons=true&theme=transparent&card_width=250&hide_border=true" alt="Rachel's Stats" /> | <img src="https://github-readme-stats-psi-pearl-42.vercel.app/api/top-langs/?username=rachelannec&layout=compact&theme=transparent&card_width=250&hide_border=true" alt="Top Languages" /> |
+| **My GitHub Stats** | **Top Languages** | **Streak**
+| :---: | :---: | :--: |
+| <img src="https://github-readme-stats-psi-pearl-42.vercel.app/api?username=rachelannec&show_icons=true&theme=transparent&card_width=250&hide_border=true" alt="Rachel's Stats" /> | <img src="https://github-readme-stats-psi-pearl-42.vercel.app/api/top-langs/?username=rachelannec&layout=compact&theme=transparent&card_width=250&hide_border=true" alt="Top Languages" /> | <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=rachelannec&theme=transparent&card_width=250&hide_border=true" /> |
+
+
 
 </div>
