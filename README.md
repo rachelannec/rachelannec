@@ -40,7 +40,7 @@ A computer science student. </br>
 
 ---
 -->
-Salut 👋
+What's up 👋
 <img src="https://media1.tenor.com/m/Epn8mtby9RcAAAAd/frieren-crying.gif" width="160" align="right"/>
 - 🍜 A computer science student
 - 📫 How to reach me: </br>
@@ -56,6 +56,10 @@ Salut 👋
   <a href="https://www.instagram.com/rachelcilon" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-F56040?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
+
+  
+ <br />
+ 
  ---
 <div align="center">
   
