@@ -65,7 +65,7 @@ What's up 👋
   
 | **My GitHub Stats** | **Top Languages** | **Streak**
 | :---: | :---: | :--: |
-| <img src="https://github-readme-stats-psi-pearl-42.vercel.app/api?username=rachelannec&show_icons=true&theme=transparent&card_width=250&hide_border=true" alt="Rachel's Stats" /> | <img src="https://github-readme-stats-psi-pearl-42.vercel.app/api/top-langs/?username=rachelannec&layout=compact&theme=transparent&card_width=250&hide_border=true" alt="Top Languages" /> | <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=rachelannec&theme=transparent&card_width=250&hide_border=true" /> |
+| <img src="https://github-readme-stats-fast.vercel.app/api?username=rachelannec&show_icons=true&theme=transparent&card_width=250&hide_border=true" alt="Rachel's Stats" /> | <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=rachelannec&layout=compact&theme=transparent&card_width=250&hide_border=true" alt="Top Languages" /> | <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=rachelannec&theme=transparent&card_width=250&hide_border=true" /> |
 
 
 
